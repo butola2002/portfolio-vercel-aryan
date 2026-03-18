@@ -1,0 +1,153 @@
+{
+  "templateId": "tech",
+  "primaryColor": "#00d4ff",
+  "accentColor": "#a855f7",
+  "portfolioData": {
+    "personal": {
+      "name": "Aryan Singh Butola",
+      "title": "Software Engineer",
+      "email": "as.butola2002@gmail.com",
+      "location": "",
+      "shortBio": "Building high-scale search infrastructure and LLM-powered features at InfoEdge (Naukri.com). 1.5 years of production experience across Java, Python, Elasticsearch, and AWS. Morgan Stanley Hackathon Winner.",
+      "bio": "Software Engineer with experience in backend development, data engineering, and cloud-native services. Skilled in Python, Java, MySQL, Elasticsearch, Docker, and Kubernetes. Proven ability to optimize performance, build scalable systems, and work in cross-functional teams. Achieved top rankings in competitive programming and hackathons.",
+      "resume": {
+        "url": "https://res.cloudinary.com/dsegmsiu8/raw/upload/v1773856359/portfolio/resumes/resume_1ce6ad4e-ca88-4fe0-a4de-95859a4157d5_1773856358.pdf",
+        "fileName": "aryan-hyperpure-resume.pdf",
+        "fileSize": 125749,
+        "uploadedAt": "2026-03-18T17:52:40.315Z",
+        "publicPath": "https://res.cloudinary.com/dsegmsiu8/raw/upload/v1773856359/portfolio/resumes/resume_1ce6ad4e-ca88-4fe0-a4de-95859a4157d5_1773856358.pdf"
+      }
+    },
+    "seo": {},
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/aryan-singh-butola-387a7522a/",
+      "website": "https://leetcode.com/u/aryan-_butola123/",
+      "github": "https://github.com/aryanbutola"
+    },
+    "skills": [
+      "Python",
+      "Java",
+      "MySQL",
+      "Elasticsearch",
+      "REST APIs",
+      "Microservices",
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "Linux",
+      "Data Structures & Algorithms",
+      "OOP",
+      "DBMS",
+      "OS",
+      "Clean Code",
+      "Design Patterns",
+      "Code Reviews",
+      "Agile SDLC",
+      "Jenkins",
+      "MongoDB"
+    ],
+    "projects": [
+      {
+        "id": "bd8035a2-e6a3-4330-87b7-cfc9f38a16b9",
+        "title": "Refrain Addiction (Morgan Stanley CTG Hackathon Winner)",
+        "description": "Refrain Addiction is a mental health and addiction recovery platform built for the Morgan Stanley CTG'23 Hackathon — winning among 200+ teams nationally.\n\nEngineered Python-based backend services for processing user mental health assessments, cutting counselor evaluation time by 40%.\nDesigned and exposed RESTful APIs to support real-time anonymous chat, AI-assisted guidance, and session management.\nBuilt scalable service abstractions in Java backed by MongoDB to ensure modular growth of the platform.\nFocused on production-readiness: clean code structure, separation of concerns, and extensible API contracts.",
+        "image": "https://res.cloudinary.com/dsegmsiu8/image/upload/v1773858248/portfolio/projects/u6rfujhzmwtruuxgtx4f.png",
+        "tags": [
+          "Python",
+          "MERN",
+          "REST APIs"
+        ],
+        "github": "https://github.com/aryanbutola/Refrain-Addiction",
+        "demo": "",
+        "featured": false,
+        "visible": true
+      },
+      {
+        "id": "a411a2fc-88e9-4c87-954d-66b436b487ee",
+        "title": "CalmSpace – AI-Powered Wellness App (Freelance project)",
+        "description": "Developed Java backend services for mood tracking, anonymous chat, and AI-assisted insights. Designed modular APIs using the MERN stack and integrated the Google Gemini API for extensible.",
+        "image": "https://res.cloudinary.com/dsegmsiu8/image/upload/v1773859489/portfolio/projects/x5hrshkszkxcio9i511z.png",
+        "tags": [
+          "Java",
+          "MERN stack",
+          "Google Gemini API"
+        ],
+        "github": "",
+        "demo": "",
+        "featured": false,
+        "visible": true
+      }
+    ],
+    "experience": [
+      {
+        "id": "36659bf2-ed12-4798-aff5-a85d6d04ac2c",
+        "company": "InfoEdge (Naukri.com)",
+        "role": "Software Engineer",
+        "period": "Jan 2025 - Present",
+        "description": "At InfoEdge, I own the backend of the iimjobs.com search and indexing pipeline — a high-volume system serving lakhs of job seekers and recruiters daily. My work spans data ingestion, search relevance optimization, and AI-powered profile enhancements.\n\nArchitected and maintained scalable Java services that power job and recruiter data indexing at high throughput.\nImproved search latency by 20% and reduced Elasticsearch index load by 15% through targeted query and ingestion optimizations.\nBuilt an LLM-based profile summary generation service that parses structured resumes to auto-generate recruiter-facing summaries — directly improving search relevance and candidate discoverability.\nDesigned data enrichment and field-mapping pipelines to normalize and enhance raw recruiter and job data before indexing.\nMaintains platform reliability through proactive production monitoring, performance tuning, and incident resolution.",
+        "current": true
+      },
+      {
+        "id": "c7eaf15d-7a80-45a6-bf21-5321f9e7f35b",
+        "company": "Deloitte",
+        "role": "Software Engineering Intern",
+        "period": "May 2024 - Jul 2024",
+        "description": "During my internship at Deloitte, I worked within a distributed engineering team on cloud infrastructure and backend services — gaining hands-on experience with enterprise-grade DevOps and deployment practices.\n\nDesigned and deployed cloud-native backend microservices using Docker and Kubernetes on AWS, supporting large-scale data processing pipelines.\nAutomated CI/CD workflows using Jenkins and Maven, enabling seamless deployments, safe rollbacks, and faster mean-time-to-recovery during incidents.\nActively participated in cross-functional incident response, diagnosing and resolving deployment failures in live distributed environments.\nGained strong familiarity with Linux-based production environments and containerized service orchestration.",
+        "current": false
+      }
+    ],
+    "education": [
+      {
+        "id": "c5e0dbbb-b842-401d-b4ce-89679942fc7a",
+        "institution": "NSIT, Delhi",
+        "degree": "B.Tech in Computer Engineering",
+        "period": "2021 - 2025",
+        "description": "Graduated from NSIT Delhi (one of India's premier engineering institutions) with a B.Tech in Computer Engineering. Built strong foundations in Data Structures & Algorithms, Operating Systems, DBMS, OOP, and Low-Level Design — which directly inform my approach to writing clean, performant backend systems."
+      }
+    ],
+    "sectionConfig": [
+      {
+        "id": "hero",
+        "type": "hero",
+        "title": "Hero Section",
+        "visible": true,
+        "content": {
+          "heroStyle": "hero-default"
+        }
+      },
+      {
+        "id": "about",
+        "type": "about",
+        "title": "About Section",
+        "visible": true,
+        "content": {
+          "text": "Software Engineer with experience in backend development, data engineering, and cloud-native services. Skilled in Python, Java, MySQL, Elasticsearch, Docker, and Kubernetes. Proven ability to optimize performance, build scalable systems, and work in cross-functional teams. Achieved top rankings in competitive programming and hackathons.",
+          "aboutStyle": "about-floating-blob"
+        }
+      },
+      {
+        "id": "skills",
+        "type": "skills",
+        "title": "Skills Section",
+        "visible": true,
+        "content": {
+          "headline": "Tech Stack",
+          "techStackStyle": "tech-badges-grid"
+        }
+      }
+    ]
+  },
+  "sectionStyles": {
+    "projects": "cards-modern",
+    "experience": "timeline-classic",
+    "education": "timeline-classic"
+  },
+  "sectionOrder": [
+    "projects",
+    "experience",
+    "education"
+  ],
+  "navbarStyle": "nav-glass",
+  "footerStyle": "footer-social",
+  "heroStyle": "hero-default"
+}
